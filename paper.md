@@ -9,5 +9,6 @@ John
 Mihir
 
 
- 
+#Results
+Simulations indiacate the coagaulation is dominanat growth. 
 
