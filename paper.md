@@ -12,3 +12,5 @@ Mihir
 #Results
 Simulations indiacate the coagaulation is dominanat growth. 
 
+#Figures
+Figures of laser.
